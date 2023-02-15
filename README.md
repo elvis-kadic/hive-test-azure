@@ -1,3 +1,3 @@
 # hive-test-azure
 
-hive azure -test
+hive azure -test test
